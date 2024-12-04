@@ -1,0 +1,411 @@
+{
+  "room_name": "topologie",
+  "room_creator": "deviantsecurit1",
+  "topic": "",
+  "export_date": "4-12-2024",
+  "exported_by": "deviantsecurit1",
+  "messages": [
+    {
+      "content": {
+        "body": "1000000331.jpg",
+        "file": {
+          "hashes": {
+            "sha256": "R9pxxonfLIlbNq9B6iYa5guMFm/4R8ilDrboKfUZZ+U"
+          },
+          "iv": "AfeKs1L7Ju0AAAAAAAAAAA",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "-9ZiDEaByax7cwGVeuQx4jA0cfyvvwDPzJADGo_NdA8",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "url": "mxc://matrix.org/pqFkhFYoGxJQgUNRVRWClXjw",
+          "v": "v2"
+        },
+        "info": {
+          "h": 2016,
+          "mimetype": "image/jpeg",
+          "size": 238621,
+          "w": 1134
+        },
+        "msgtype": "m.image"
+      },
+      "origin_server_ts": 1724567543788,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {},
+      "event_id": "$qnEAeCawR0gmujjscvhAZtVa39pEhZ8JfXr2p8KYbjg",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {
+        "body": "1000000330.jpg",
+        "file": {
+          "hashes": {
+            "sha256": "myv1XBZk2cxARwCyfWYNXC0gxBEKqBd8kVeDmp16RN8"
+          },
+          "iv": "AOf7pSscArsAAAAAAAAAAA",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "Ta0zbGcF7lj6foXL7RPsiGKgShWTYORcRmT1G-DPZBA",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "url": "mxc://matrix.org/ZGKXHtWkJwqAJfVvLBlBpnLd",
+          "v": "v2"
+        },
+        "info": {
+          "h": 2016,
+          "mimetype": "image/jpeg",
+          "size": 235378,
+          "w": 1134
+        },
+        "msgtype": "m.image"
+      },
+      "origin_server_ts": 1724567546189,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {},
+      "event_id": "$0J1Xr97Si7FamVObB5xcBWsJljyDTYk4rutl5_jp6wk",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {
+        "body": "1000000329.jpg",
+        "file": {
+          "hashes": {
+            "sha256": "bk4k0RBT40j5SfzNBLX+nebsyaxOievbJcNk0aFsN4o"
+          },
+          "iv": "XqsAKVCU10oAAAAAAAAAAA",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "cyaw4HieWTk_TtR082Mae2Xpp3RxxI_5SEb8CfjzuME",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "url": "mxc://matrix.org/pAiJPyHiAYeMWDZkOptchJiP",
+          "v": "v2"
+        },
+        "info": {
+          "h": 2016,
+          "mimetype": "image/jpeg",
+          "size": 390898,
+          "w": 1134
+        },
+        "msgtype": "m.image"
+      },
+      "origin_server_ts": 1724567548193,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {},
+      "event_id": "$xnmeS61e1jXHwlXCKxvzbD8-Um-AXiCd6TLZs5DvueU",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {},
+      "origin_server_ts": 1724567550085,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.encrypted",
+      "unsigned": {
+        "membership": "join",
+        "age": 8635922898,
+        "redacted_because": {
+          "content": {
+            "redacts": "$Qi6sRwtpCgbhnhJGuJKq_Amb9dwJofHDnmTsdfI7EVU"
+          },
+          "origin_server_ts": 1733244395540,
+          "redacts": "$Qi6sRwtpCgbhnhJGuJKq_Amb9dwJofHDnmTsdfI7EVU",
+          "sender": "@deviantsecurit1:matrix.org",
+          "type": "m.room.redaction",
+          "unsigned": {
+            "membership": "join",
+            "age": 595
+          },
+          "event_id": "$vwJmFG95xTV_58ib-5mp-BjTh_yidGXyF1lyPWODbdM",
+          "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+        }
+      },
+      "event_id": "$Qi6sRwtpCgbhnhJGuJKq_Amb9dwJofHDnmTsdfI7EVU",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {
+        "body": "1000000324.jpg",
+        "file": {
+          "hashes": {
+            "sha256": "6K+WBl0k5EhVlA/UC+E1VAuZuaXluPXeT5sFD95pivQ"
+          },
+          "iv": "CXqaxdJyeXkAAAAAAAAAAA",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "uUpVGkY9sEUO9MlFOdVB71R4MjxM55B0gL29jwQtYtQ",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "url": "mxc://matrix.org/obkOoXADlsOuWCwZLPBtrYBD",
+          "v": "v2"
+        },
+        "info": {
+          "h": 960,
+          "mimetype": "image/jpeg",
+          "size": 98902,
+          "w": 960
+        },
+        "msgtype": "m.image"
+      },
+      "origin_server_ts": 1724567550689,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {},
+      "event_id": "$oE_T4pb4iObhYjd7S0IHpT2ht7WeCQLihfaAk7cm7OY",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {
+        "body": "oja hier had ik een sequence voor ",
+        "m.mentions": {},
+        "msgtype": "m.text"
+      },
+      "origin_server_ts": 1724568813803,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {},
+      "event_id": "$jte6Bd7GmMclGNYGWNxAj0MdZeiPibV0DEgRR-HW69U",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {
+        "body": "en dit is een weer sequence alleen zie ik weer van gisteren erbij.. als jij wat weet graag ",
+        "m.mentions": {},
+        "msgtype": "m.text"
+      },
+      "origin_server_ts": 1724568847305,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {},
+      "event_id": "$uyYAm8cH4CL_gX9Bhicf2tNZoxoitglxPMrdI-f8cb4",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {
+        "body": "https://meteologix.com/nl/forecast/2757783-de-bilt/xltrend",
+        "m.mentions": {},
+        "msgtype": "m.text"
+      },
+      "origin_server_ts": 1724568849379,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {},
+      "event_id": "$IJ_KCv_hlusNVInQs4knMiW8dLiBoVhXeuQZaLrTYvA",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {
+        "body": "anders hang ik me weer ballon weer op om metingen te doen",
+        "m.mentions": {},
+        "msgtype": "m.text"
+      },
+      "origin_server_ts": 1724568877473,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {},
+      "event_id": "$3sejzF77RAhx3tUeSjhfoh_WCXjNIwOlqcH3H5Q79eo",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {
+        "body": "zo leuk he zo een klok ...een herinnering aan je moeder de familie Polly en het smitsklokje van Oud vossemeer",
+        "m.mentions": {},
+        "msgtype": "m.text"
+      },
+      "origin_server_ts": 1724568935890,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {},
+      "event_id": "$Z7vJu8hHXfDRzfNK4fo2Hr_bJ4hyCJbb9b4Y2XXKbn8",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {
+        "body": "https://oeis.org/search?q=%09%09A+sequence+related+to+P-partitions.&go=Search",
+        "m.mentions": {},
+        "msgtype": "m.text"
+      },
+      "origin_server_ts": 1724577457279,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {},
+      "event_id": "$O8V95oO9jm9t_2-XRcsG6YRjg4huKxL4evIK2jGGi6I",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {
+        "body": "https://oeis.org/A096627",
+        "m.mentions": {},
+        "msgtype": "m.text"
+      },
+      "origin_server_ts": 1724577563037,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {},
+      "event_id": "$2uP4_dXsjmQc0mDg6lAFtaTyn0h96i1t9nNScJS-lcQ",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {
+        "body": "https://mathworld.wolfram.com/GoldenAngle.html",
+        "m.mentions": {},
+        "msgtype": "m.text"
+      },
+      "origin_server_ts": 1724578403407,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {},
+      "event_id": "$ftAwbJApGbiH5iYuDQ08x1jz6lOuf7cPdiVubUSi260",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {
+        "body": "https://www.wolframalpha.com/input?i=golden+angle",
+        "m.mentions": {},
+        "msgtype": "m.text"
+      },
+      "origin_server_ts": 1724578498152,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {},
+      "event_id": "$opcaLUv2zfxYGC8egcYMyO5A6-PIcLpQGD-ndy9Apuk",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {
+        "body": "1000000373.png",
+        "file": {
+          "hashes": {
+            "sha256": "V/+qBeOPC4cw2HnVXJmFWaYnPSeZ2U2wuq+Y9SvVrck"
+          },
+          "iv": "0huosB/NmZkAAAAAAAAAAA",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "-Pd7niyzBQSY5ZOrcvUFq4dla07Zt5JHd_yX8hvRsP4",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "url": "mxc://matrix.org/rwtTkPOPFwSSczAIfUfpWOAa",
+          "v": "v2"
+        },
+        "info": {
+          "h": 1939,
+          "mimetype": "image/png",
+          "size": 117079,
+          "w": 864
+        },
+        "msgtype": "m.image"
+      },
+      "origin_server_ts": 1724581573659,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {},
+      "event_id": "$Ck2qfHeMLicspQfwj1G-1ztxY02cLjjyazCgVsC2YCI",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {},
+      "origin_server_ts": 1724581788388,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.encrypted",
+      "unsigned": {
+        "redacted_by": "$12oxVCmaxptVs64m6GHyEWNjPj5ycA7tcTshMnPSO7w",
+        "redacted_because": {
+          "content": {
+            "redacts": "$vdi8dgNBH7lIr6AWn3Dlzw2X-44aelYuU4EGy1AvtQc"
+          },
+          "origin_server_ts": 1725783620312,
+          "redacts": "$vdi8dgNBH7lIr6AWn3Dlzw2X-44aelYuU4EGy1AvtQc",
+          "sender": "@deviantsecurit1:matrix.org",
+          "type": "m.room.redaction",
+          "unsigned": {
+            "membership": "join",
+            "age": 7419852671
+          },
+          "event_id": "$12oxVCmaxptVs64m6GHyEWNjPj5ycA7tcTshMnPSO7w",
+          "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+        },
+        "membership": "join",
+        "age": 8621684595
+      },
+      "event_id": "$vdi8dgNBH7lIr6AWn3Dlzw2X-44aelYuU4EGy1AvtQc",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {},
+      "origin_server_ts": 1724581798115,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.encrypted",
+      "unsigned": {
+        "redacted_by": "$jIvOPh1Y3AsLtQytZiIENvk7dWd5jO6Txns7e6mG1eI",
+        "redacted_because": {
+          "content": {
+            "redacts": "$zMteSqQippkIPWF6C_McPPO1XRXhGWEfFMnA5nbHLwU"
+          },
+          "origin_server_ts": 1725783624318,
+          "redacts": "$zMteSqQippkIPWF6C_McPPO1XRXhGWEfFMnA5nbHLwU",
+          "sender": "@deviantsecurit1:matrix.org",
+          "type": "m.room.redaction",
+          "unsigned": {
+            "membership": "join",
+            "age": 7419848665
+          },
+          "event_id": "$jIvOPh1Y3AsLtQytZiIENvk7dWd5jO6Txns7e6mG1eI",
+          "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+        },
+        "membership": "join",
+        "age": 8621674868
+      },
+      "event_id": "$zMteSqQippkIPWF6C_McPPO1XRXhGWEfFMnA5nbHLwU",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    },
+    {
+      "content": {
+        "membership": "ban",
+        "displayname": "Panthera"
+      },
+      "origin_server_ts": 1725783607462,
+      "sender": "@deviantsecurit1:matrix.org",
+      "state_key": "@varenopeenbok:matrix.org",
+      "type": "m.room.member",
+      "unsigned": {
+        "replaces_state": "$B3bd4pondXzPGd84YakMc-bLfwJV0jQAqzqHkbVkcQ8",
+        "prev_content": {
+          "displayname": "Panthera",
+          "membership": "join"
+        },
+        "prev_sender": "@varenopeenbok:matrix.org",
+        "membership": "join",
+        "age": 7419865521
+      },
+      "event_id": "$z_XCPYVdXIgBs7bWVNqykEHzDGCSrEGRSblMCDhXKjU",
+      "room_id": "!VXOytmxsxxpHOCNqhA:matrix.org"
+    }
+  ]
+}
