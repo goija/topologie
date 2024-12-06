@@ -1,0 +1,1020 @@
+{
+  "room_name": "gemeenteeemnesdocumenten",
+  "room_creator": "deviantsecurit1",
+  "topic": "",
+  "export_date": "6-12-2024",
+  "exported_by": "deviantsecurit1",
+  "messages": [
+    {
+      "content": {
+        "displayname": "deviantsecurit1",
+        "membership": "join"
+      },
+      "origin_server_ts": 1733463232568,
+      "sender": "@deviantsecurit1:matrix.org",
+      "state_key": "@deviantsecurit1:matrix.org",
+      "type": "m.room.member",
+      "unsigned": {
+        "membership": "join",
+        "age": 274
+      },
+      "event_id": "$_V6n8zQ9ipvIk7tWXZ7ugCStgYrIFpqCXV4vmcXFowQ",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "join_rule": "invite"
+      },
+      "origin_server_ts": 1733463232748,
+      "sender": "@deviantsecurit1:matrix.org",
+      "state_key": "",
+      "type": "m.room.join_rules",
+      "unsigned": {
+        "membership": "join",
+        "age": 1390
+      },
+      "event_id": "$UoiVHogALkFQhZPYrLfHUcUf1RHjxILLq5AneNs_VLk",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "history_visibility": "shared"
+      },
+      "origin_server_ts": 1733463232749,
+      "sender": "@deviantsecurit1:matrix.org",
+      "state_key": "",
+      "type": "m.room.history_visibility",
+      "unsigned": {
+        "membership": "join",
+        "age": 1389
+      },
+      "event_id": "$KCyQpTkxGEpkJc6s8A6FVODI_z4_5MRhYkcuHmNL4wE",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "guest_access": "can_join"
+      },
+      "origin_server_ts": 1733463232750,
+      "sender": "@deviantsecurit1:matrix.org",
+      "state_key": "",
+      "type": "m.room.guest_access",
+      "unsigned": {
+        "membership": "join",
+        "age": 1388
+      },
+      "event_id": "$0hDRme2kXPfh0cX0EPwAibLQATWnnXhvpu-O15Y40rY",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "algorithm": "m.megolm.v1.aes-sha2"
+      },
+      "origin_server_ts": 1733463232751,
+      "sender": "@deviantsecurit1:matrix.org",
+      "state_key": "",
+      "type": "m.room.encryption",
+      "unsigned": {
+        "membership": "join",
+        "age": 1387
+      },
+      "event_id": "$RvXW3uVlyb9e8MvgPB77bvvkn6iv5dy31cYzs8sxYpA",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "name": "gemeenteeemnesdocumenten"
+      },
+      "origin_server_ts": 1733463232752,
+      "sender": "@deviantsecurit1:matrix.org",
+      "state_key": "",
+      "type": "m.room.name",
+      "unsigned": {
+        "membership": "join",
+        "age": 1386
+      },
+      "event_id": "$Xd96Jm8ZZnIjgIoIr-yR0F-oW1qflPeF_CzlenSuq0A",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "msgtype": "m.text",
+        "body": "https://ris.gemeenteraadhuizen.nl/Documenten/Collegebesluit-Benoeming-leden-Adviesraad-Sociaal-Domein-HBEL.pdf",
+        "m.mentions": {}
+      },
+      "origin_server_ts": 1733463238620,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 135,
+        "transaction_id": "m1733463238048.0"
+      },
+      "event_id": "$rg3xy4EekIJLoeLiZ8LE1oFtCVgTzjHumXPuMoloBh4",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "Geconsolideerde artikelsgewijze toelichting versie EK ongemarkeerd 22 oktober .pdf",
+        "info": {
+          "size": 564338,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "ChersX6mgCGBuRvS-k0_u237HbPPCJIC_xPlEVI0q3A",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "ZvcqDIhVJsoAAAAAAAAAAA",
+          "hashes": {
+            "sha256": "ev65QranMwRsuq/K6y+uQpkeRT6oWgyuFPNtbk02sos"
+          },
+          "url": "mxc://matrix.org/pBPHlDzzybWMmfHwLgjSIOSU"
+        }
+      },
+      "origin_server_ts": 1733463574040,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 133,
+        "transaction_id": "m1733463573783.1"
+      },
+      "event_id": "$1V3sjy4uv_l9dr3YsPrIUsByS_3Vy-NN8x9OiQeh_qA",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "1887_138176-Capkurt_-_Het_bestuursrecht_en_gegevensbeschermingsrecht-_de_ontmoeting_van_twee_rechtsgebieden_in_historisch_perspectief.pdf",
+        "info": {
+          "size": 710467,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "tYAVeUhHKGfGPWHLdIdGJ0igra59ObC_O0Df7mH0dfA",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "7ghoT10aIRwAAAAAAAAAAA",
+          "hashes": {
+            "sha256": "2ioyD/5nWf2DB9b3t5vB1p5UtNeTqSH6OAhX9iC359M"
+          },
+          "url": "mxc://matrix.org/jWxQCHikvblGQEtLQtasYFeu"
+        }
+      },
+      "origin_server_ts": 1733463594251,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 137,
+        "transaction_id": "m1733463594008.2"
+      },
+      "event_id": "$RbhjBUbiNybPIL4aLEMW60Zyc-W04gaxzbtkFZBG3N8",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "201104verstrekkingenbeleid_brp_1_0.pdf",
+        "info": {
+          "size": 361126,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "4AJtyrLVYxSOfOF0QqLvYupNbLSDJbSziDLh9EN8ytU",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "sZAnE952avsAAAAAAAAAAA",
+          "hashes": {
+            "sha256": "9xE6RWhXNWES62bkZ13H+z/H1PCcmzHeE6ZJ+ybtL6w"
+          },
+          "url": "mxc://matrix.org/RPqvnvCzIgwjuIVOaOlXcHqg"
+        }
+      },
+      "origin_server_ts": 1733463596463,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 139,
+        "transaction_id": "m1733463596271.3"
+      },
+      "event_id": "$ComonGisvTeOpde_mHhQSB_i9HtBrwV512aM3z4y1Vw",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "20180626-jAARVERSLAG-vRIENDEN.pdf",
+        "info": {
+          "size": 154289,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "JYi7UIUcrPwNCihXd55SWQw2b8hcObERxP2OPyLDoqc",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "bMDKyOA5V9QAAAAAAAAAAA",
+          "hashes": {
+            "sha256": "LTGu9j9zNqjjkB/pCP9711zH7bXdoVYrTljkCEk5gdQ"
+          },
+          "url": "mxc://matrix.org/fqKzkFKkcPjodPOJmmmjQFIe"
+        }
+      },
+      "origin_server_ts": 1733463597753,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 134,
+        "transaction_id": "m1733463597582.4"
+      },
+      "event_id": "$9r9-R7jiSvQYs14WIpNVqEIWh3m7yI9mjIuvpc-Qp7E",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "20200527Rvs22 Concept begroting 2021 Werkvoorzieningschap Tomingroep BIJLAGE zienswijze.pdf",
+        "info": {
+          "size": 198794,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "U1Ej0-BO29TLNKjkrRZ2DpwGuqs2sSLrrtiY2NMLA9U",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "y7JTIuW+U6UAAAAAAAAAAA",
+          "hashes": {
+            "sha256": "L1DUYz9cDkqflPF3b7aJ2NvJPv5l44oxEetqd1SSQVU"
+          },
+          "url": "mxc://matrix.org/jpoIVAHaYWFXoGWtefpiGyEe"
+        }
+      },
+      "origin_server_ts": 1733463599772,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 138,
+        "transaction_id": "m1733463599403.5"
+      },
+      "event_id": "$3S8vMknDCd8t9j44KbztFOwNatzqGgI8o5s9Wgs0ygw",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "20221130RVSb22.01288 Programma Wet open overheid BIJLAGE toezichtrapport.pdf",
+        "info": {
+          "size": 148618,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "fLCTqQRdnzbOqYdeFyYvpFoUtNbdx6GV-NWZzpK9XlY",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "w2u9VCQCAWEAAAAAAAAAAA",
+          "hashes": {
+            "sha256": "F1QB9o2/1ztUIuN8OwjVMX7bUxDKArXegfpVCBfEY7g"
+          },
+          "url": "mxc://matrix.org/yZWyvPAtlxJFpHakfsJypQRx"
+        }
+      },
+      "origin_server_ts": 1733463600417,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 120,
+        "transaction_id": "m1733463599919.6"
+      },
+      "event_id": "$8vq5bKLEj95ecJG9GPX-VFYmr_Zir5WRlXbA2dUhamI",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "20221130RVSb22.01288 Programma Wet open overheid BIJLAGE toezichtrapport-1.pdf",
+        "info": {
+          "size": 148618,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "wX7Oc2PJCmKleS7zbxcBtR1C_G47dEyYlImZnOTHlg0",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "Wytm88kK9L0AAAAAAAAAAA",
+          "hashes": {
+            "sha256": "IOdQDAshJFCPNKC8+NPmduTuZVF8VOXAw2Ujzx5jrTo"
+          },
+          "url": "mxc://matrix.org/XBtzMrTTxvrdZDIuVwHdFhaJ"
+        }
+      },
+      "origin_server_ts": 1733463600850,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 129,
+        "transaction_id": "m1733463600572.7"
+      },
+      "event_id": "$o7DwB1m2HjXZHFmkt0omtf7VxPaY1SYrw5lm-BVav3c",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "20221130RVSb22.01288 Programma Wet open overheid BIJLAGE toezichtrapport-2.pdf",
+        "info": {
+          "size": 148618,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "VdMeC3Ose8QHrGEUFQGQI1QwOD1YUDbBVMrNI6TaV1o",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "vgavFmQDknUAAAAAAAAAAA",
+          "hashes": {
+            "sha256": "tslWXdWiHfJnO2Kjd98funX78SFyE9pOaZ77p6WZRN8"
+          },
+          "url": "mxc://matrix.org/MypHsYybAdTUwTOcMvhOAJKZ"
+        }
+      },
+      "origin_server_ts": 1733463601306,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 118,
+        "transaction_id": "m1733463601034.8"
+      },
+      "event_id": "$NRlK0y1z8omCG_4YrU4JBgK3DPv8TG9Egd5X66DO3jI",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {},
+      "origin_server_ts": 1733463602986,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 127,
+        "transaction_id": "m1733463602779.9",
+        "redacted_because": {
+          "content": {
+            "redacts": "$1CN2ur-YKcLmpNc-NFbQaKHx2R6tY-qoHK1IMGRT0W8"
+          },
+          "origin_server_ts": 1733463714392,
+          "redacts": "$1CN2ur-YKcLmpNc-NFbQaKHx2R6tY-qoHK1IMGRT0W8",
+          "sender": "@deviantsecurit1:matrix.org",
+          "type": "m.room.redaction",
+          "unsigned": {
+            "membership": "join",
+            "age": 228,
+            "transaction_id": "m1733463714177.20"
+          },
+          "event_id": "$6eVMiNuWAAQ2Dl0s3ovsTF1-kXL8-DregdFROkYKfVk",
+          "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+        }
+      },
+      "event_id": "$1CN2ur-YKcLmpNc-NFbQaKHx2R6tY-qoHK1IMGRT0W8",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "A.07.1 BIJLAGE - raadsvragen-1.pdf",
+        "info": {
+          "size": 49945,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "6xgNNdt2GOJxIUW15e3U4KVyUZytAy7yQ61Rbvy1cFM",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "We5wALr3ptYAAAAAAAAAAA",
+          "hashes": {
+            "sha256": "iH13amhe7g9bSGC6kizcO26yQJMfqE7TkbaBsKL7mKA"
+          },
+          "url": "mxc://matrix.org/AWuiXPEZwQMOdCBuGzbSKakM"
+        }
+      },
+      "origin_server_ts": 1733463603558,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 123,
+        "transaction_id": "m1733463603194.10"
+      },
+      "event_id": "$AGzJWpqPqruIQ9XK5Rwo5A70z8TGi5-cX2JvQry2G-g",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "A.10.2 BIJLAGE - Toezichtverslag BEL-combinatie en de gemeenten Blaricum Eemnes en Laren over het jaar 2023 (2024).pdf",
+        "info": {
+          "size": 789985,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "_5A_Yqr2RIcHGsjebFlvnnVPkGXqVijoQdDs5hb167U",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "uIcfhid4tIkAAAAAAAAAAA",
+          "hashes": {
+            "sha256": "gY/EOW2YgLCVp53um4xN9o8WdUon0w3nJ5uN3ICDbVI"
+          },
+          "url": "mxc://matrix.org/AKKiWeFEbAALWUaJMIeiCbaB"
+        }
+      },
+      "origin_server_ts": 1733463604067,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 109,
+        "transaction_id": "m1733463603733.11"
+      },
+      "event_id": "$yAEB34uiSWp8rYCJUW3WghZEUzykMB_5KpNZA2GjHd8",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "Algemeen Privacybeleid BEL.pdf",
+        "info": {
+          "size": 913789,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "lTOxFy4hs4QPJI_0R1w0DEl0yLJAeIL764D7KF70Zvw",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "SSoVXByIC+QAAAAAAAAAAA",
+          "hashes": {
+            "sha256": "zSFOeGsgrbubsjdj59Ttxwy+ZPpd6KsvnIfwB/ItAws"
+          },
+          "url": "mxc://matrix.org/qSjHldyUoqzcWSyIYdEtnVWc"
+        }
+      },
+      "origin_server_ts": 1733463604646,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 168,
+        "transaction_id": "m1733463604217.12"
+      },
+      "event_id": "$FrbWkArTq8X_8-pop0vMil6hZvtjcYJQsLoDRFCCg9Q",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "brief Eemnes m.b.t. zienswijze begrotingswijzigingen 2017 Regio Gooi en Vechtstreek nrs.pdf",
+        "info": {
+          "size": 264314,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "ZBvvUyhjoMKyo5GrirrYqBtojSS8-h_ucMJbavxMh1Y",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "doYERjof//0AAAAAAAAAAA",
+          "hashes": {
+            "sha256": "gbBkg8itOyIYH06ixsXEyiRKNZuZajSSed078BVkCvU"
+          },
+          "url": "mxc://matrix.org/QQWkcGhfLoehyQtYVeVkCNpG"
+        }
+      },
+      "origin_server_ts": 1733463605226,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 213,
+        "transaction_id": "m1733463604860.13"
+      },
+      "event_id": "$HvAwKd0ch8eUvUBv6Ogw_zwzwIENfBpKKHlknd4dz74",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "brief Eemnes m.b.t. zienswijze begrotingswijzigingen 2017 Regio Gooi en Vechtstreek nrs-1.pdf",
+        "info": {
+          "size": 264314,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "GHGO3wZPW4zmp__Z8ob5uIbtpgZxnBQfFz3OtVGJF64",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "I1pjX6QbbskAAAAAAAAAAA",
+          "hashes": {
+            "sha256": "F3JhRo7umQAN1joMC8NYy+YIi1cvtc6En+PeETw9Kas"
+          },
+          "url": "mxc://matrix.org/ihpscBtjRGbWbXRPqaAEBppC"
+        }
+      },
+      "origin_server_ts": 1733463609854,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 134,
+        "transaction_id": "m1733463605447.14"
+      },
+      "event_id": "$Rw-_4lr_F2zEf1LXSUmLdDuDPp3q7h6feCCEn_2E2HQ",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "Geconsolideerde artikelsgewijze toelichting versie EK ongemarkeerd 22 oktober .pdf",
+        "info": {
+          "size": 564338,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "K6sI-aI1pHre_VL__oSKk3uhAY3bWarq7DJmqIZG1i4",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "VIb0glsLhiMAAAAAAAAAAA",
+          "hashes": {
+            "sha256": "q5izPLjn1lY3UevNtd69nOqsV1Ll1oJVjJZ2lPWtSKs"
+          },
+          "url": "mxc://matrix.org/MphcjTIkmjMlbtyLyBeWdqrS"
+        }
+      },
+      "origin_server_ts": 1733463614869,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 112,
+        "transaction_id": "m1733463610040.15"
+      },
+      "event_id": "$trovbVUweNpJ9Pd5ptMv6uMsfVwMkMPWqKzbjPcraFA",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "Jaarrekening 2023 BEL Combinatie (vastgesteld).pdf",
+        "info": {
+          "size": 10825908,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "nEvhxvwcigAf7aXwPGJpoZ6ypJ-XN5Uw9IP4kwcMOsk",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "f93ueXChSqwAAAAAAAAAAA",
+          "hashes": {
+            "sha256": "ReKHW5Y5r/oqRX/XO3okf6A8677qUTpV8KuUBFg/pfs"
+          },
+          "url": "mxc://matrix.org/ezKKTlNgzVySZaoxbfnVHUsC"
+        }
+      },
+      "origin_server_ts": 1733463619854,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 407,
+        "transaction_id": "m1733463615042.16"
+      },
+      "event_id": "$BZlH_qF-EwSPOEk1KbZHo0TKafKxHSz13CCwMXV8mmQ",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "body": "Privacybeleid.pdf",
+        "info": {
+          "size": 93740,
+          "mimetype": "application/pdf"
+        },
+        "msgtype": "m.file",
+        "m.mentions": {},
+        "file": {
+          "v": "v2",
+          "key": {
+            "alg": "A256CTR",
+            "ext": true,
+            "k": "e0oNtyqEPNSitsD7OvyBnc-081y3vsR9ICVafHkVfME",
+            "key_ops": [
+              "encrypt",
+              "decrypt"
+            ],
+            "kty": "oct"
+          },
+          "iv": "zQu/UC/aUJ4AAAAAAAAAAA",
+          "hashes": {
+            "sha256": "pfz5L9ZqS4H51xg9HKQjuWzFmsrVsjfZY/9HcILjQHs"
+          },
+          "url": "mxc://matrix.org/sjsRroguibwuztSXRXWCLoAE"
+        }
+      },
+      "origin_server_ts": 1733463624860,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 133,
+        "transaction_id": "m1733463620194.17"
+      },
+      "event_id": "$yT2PSwvNZy8Y0UsRwcfG0MFjmhinAdk14M0lqtkX-2o",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {},
+      "origin_server_ts": 1733463629860,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.encrypted",
+      "unsigned": {
+        "membership": "join",
+        "age": 136,
+        "transaction_id": "m1733463622034.18",
+        "redacted_because": {
+          "content": {
+            "redacts": "$hGasJhYSdaDg1U72OI8bJEmwz6gGi7HxWoymUpeYyTk"
+          },
+          "origin_server_ts": 1733463634662,
+          "redacts": "$hGasJhYSdaDg1U72OI8bJEmwz6gGi7HxWoymUpeYyTk",
+          "sender": "@deviantsecurit1:matrix.org",
+          "type": "m.room.redaction",
+          "unsigned": {
+            "membership": "join",
+            "age": 157,
+            "transaction_id": "m1733463634519.19"
+          },
+          "event_id": "$n6zhA-ZuCILezDBbevQf-O5oUNA0i_HVxYPV_WGm23A",
+          "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+        }
+      },
+      "event_id": "$hGasJhYSdaDg1U72OI8bJEmwz6gGi7HxWoymUpeYyTk",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "msgtype": "m.text",
+        "body": "https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Toezichtverslag+BEL-combinatie+en+de+gemeenten+Blaricum+Eemnes+en+Laren+over+het+jaar+2023+%282024%29.pdf",
+        "m.mentions": {}
+      },
+      "origin_server_ts": 1733464170737,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 135,
+        "transaction_id": "m1733464170501.21"
+      },
+      "event_id": "$P_maju-GYCEqHE5ldoIO9EiGPKavyoefrV9zvatJjnY",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "msgtype": "m.text",
+        "body": "https://www.exploit-db.com/google-hacking-database",
+        "m.mentions": {}
+      },
+      "origin_server_ts": 1733464256051,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 167,
+        "transaction_id": "m1733464255822.22"
+      },
+      "event_id": "$a8XhKLMljRoDp7V2p-nI-nXm1-W0uccdrHGPJk3oH5M",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "msgtype": "m.text",
+        "body": "https://www.google.com/search?q=inurl%3A%2Fgemeente+eemnes&sca_esv=c395584ecddb882c&ei=8ZBSZ_znMbTvi-gPhp2kqQs&ved=0ahUKEwi8pLfhuZKKAxW09wIHHYYOKbUQ4dUDCA8&uact=5&oq=inurl%3A%2Fgemeente+eemnes&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmludXJsOi9nZW1lZW50ZSBlZW1uZXMyCBAAGKIEGIkFMggQABiABBiiBEiNCVAAWABwAHgAkAEAmAFGoAFGqgEBMbgBA8gBAPgBAZgCAaACSZgDAJIHATGgB6UB&sclient=gws-wiz-serp",
+        "m.mentions": {}
+      },
+      "origin_server_ts": 1733464328907,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 136,
+        "transaction_id": "m1733464328613.23"
+      },
+      "event_id": "$6I0muBR9FqSgvljEXC9Sexc1NE-k1Ttcf_YIy4id9Fg",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "msgtype": "m.text",
+        "body": "https://www.gemeentelink.nl/gemeente/eemnes/afspraak-maken/",
+        "m.mentions": {}
+      },
+      "origin_server_ts": 1733464398697,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 157,
+        "transaction_id": "m1733464398478.24"
+      },
+      "event_id": "$pE5gSw9Ja-SO1fDLE8LLbpeHy4M0ihgbiOGpfeMffi8",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "msgtype": "m.text",
+        "body": "https://openinfo.nl/downloads/informatie-gemeente-eemnes/",
+        "m.mentions": {}
+      },
+      "origin_server_ts": 1733464429041,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 156,
+        "transaction_id": "m1733464428773.25"
+      },
+      "event_id": "$BQD7X2215YI9ktRqMlTZwReJVmNevy--Vo6Wklnfos0",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "msgtype": "m.text",
+        "body": "https://www.google.com/search?client=ubuntu-sn&channel=fs&q=inurl%3Abelcombinatie.nl",
+        "m.mentions": {}
+      },
+      "origin_server_ts": 1733464683508,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 168,
+        "transaction_id": "m1733464683296.26"
+      },
+      "event_id": "$kfiFh0xlbQ6WndXeoBKIgF3rd88h2VVNwXBdNlwXZzE",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "msgtype": "m.text",
+        "body": "https://www.google.com/search?q=inurl%3Ahbel.nl&client=ubuntu-sn&hs=ZJB&sca_esv=c395584ecddb882c&channel=fs&sxsrf=ADLYWIIK63LKwAlFeDr-11vs2D69D8FO3A%3A1733464666558&ei=WpJSZ5reIcuMi-gPgIeTkAc&ved=0ahUKEwia87iNu5KKAxVLxgIHHYDDBHIQ4dUDCA8&uact=5&oq=inurl%3Ahbel.nl&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWludXJsOmhiZWwubmxI-z1QhSZYqTtwAngAkAEAmAExoAHKAqoBATe4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB7sC&sclient=gws-wiz-serp",
+        "m.mentions": {}
+      },
+      "origin_server_ts": 1733464761388,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 150,
+        "transaction_id": "m1733464761097.27"
+      },
+      "event_id": "$UiJJi5USz3MQUcTRfUb4Wqyji1Zq9E65FPdI6Z2q62g",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "msgtype": "m.text",
+        "body": "https://www.maatschappelijkezaken.nl/",
+        "m.mentions": {}
+      },
+      "origin_server_ts": 1733464805969,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 125,
+        "transaction_id": "m1733464805525.28"
+      },
+      "event_id": "$8KKuxXmPoPLykDvE_WPuh44yj3mJhKz1ORh1V3Ru5Lw",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "msgtype": "m.text",
+        "body": "http://mirror.openstreetmap.nl/woonplaatsbesluiten/vrom2/Eemnes%20wpb%20.pdf",
+        "m.mentions": {}
+      },
+      "origin_server_ts": 1733464929668,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 138,
+        "transaction_id": "m1733464929420.29"
+      },
+      "event_id": "$j6GdlrzePh6tWi21jED0RaBuvI1RXsQoVc-xwrfxGs4",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "msgtype": "m.text",
+        "body": "http://mirror.openstreetmap.nl/woonplaatsbesluiten/vrom2/Tholen%20wpk%20.pdf",
+        "m.mentions": {}
+      },
+      "origin_server_ts": 1733464952513,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 408,
+        "transaction_id": "m1733464952208.30"
+      },
+      "event_id": "$9ZEqlznI-vFARaTEasklxBgspEQdHM_WAmJO3hV47xE",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "msgtype": "m.text",
+        "body": "http://mirror.openstreetmap.nl/woonplaatsbesluiten/vrom2/Tholen%20wpk%20.pdf",
+        "m.mentions": {}
+      },
+      "origin_server_ts": 1733464998422,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 141,
+        "transaction_id": "m1733464998215.31"
+      },
+      "event_id": "$We2MajfW4_hZTRoKblqd0TFZ-GXl4OMAZIgkG7WgjCk",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "msgtype": "m.text",
+        "body": "woonplaatsbesluiten \nLaren / no\nEemnes / yes\ntholen / yes \nhttps://wetten.overheid.nl/BWBR0023466/2022-05-01\nWet Basisregistratie Adressen en Gebouwen(BAG) \nhttps://imbag.github.io/praktijkhandleiding/beleidskaders\nhttps://lokaleregelgeving.overheid.nl/CVDR47438\nhttps://www.geobasisregistraties.nl/basisregistraties/adressen-en-gebouwen/bag-wet-en-regelgeving\nhttps://lokaleregelgeving.overheid.nl/CVDR61974/2\n\n",
+        "m.mentions": {}
+      },
+      "origin_server_ts": 1733465301052,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 315100,
+        "transaction_id": "m1733465300759.32"
+      },
+      "event_id": "$CyboHkfUh0KTuwwZiFg7pnQmbt2KaRXix2Urj1iEGcc",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    },
+    {
+      "content": {
+        "msgtype": "m.text",
+        "body": "belcombinatie \ngokkasten archief \n\nhttps://www.gokkastenarchief.nl/fabrikant/bellfruit/page/3/",
+        "m.mentions": {}
+      },
+      "origin_server_ts": 1733465392667,
+      "sender": "@deviantsecurit1:matrix.org",
+      "type": "m.room.message",
+      "unsigned": {
+        "membership": "join",
+        "age": 149,
+        "transaction_id": "m1733465392419.33"
+      },
+      "event_id": "$GhzAA0ndtA2njvW4Obv5qB0xRJSIXOQeFP3Svsuyxzw",
+      "room_id": "!pLnhwqMAYusVfZCxPF:matrix.org"
+    }
+  ]
+}
